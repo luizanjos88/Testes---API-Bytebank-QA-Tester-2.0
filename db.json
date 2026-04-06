@@ -1,0 +1,283 @@
+{
+  "users": [
+    {
+      "nome": "Srta. Lorenzo Silva",
+      "email": "lorenzo@email.com",
+      "senha": "EmWqjIiSS5KhiSi",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nome": "Gui Lima",
+      "email": "gui@alura.com",
+      "senha": "guilimadev"
+    },
+    {
+      "id": "3",
+      "nome": "Moni Hillman",
+      "email": "moni@alura.com",
+      "senha": "moniverso"
+    },
+    {
+      "nome": "Warley Macedo",
+      "email": "Joaquim.Souza2@hotmail.com",
+      "senha": "s21sfvUToDnYSLa",
+      "id": "4WelMNKwAMg"
+    },
+    {
+      "nome": "Laura Macedo",
+      "email": "Anthony32@gmail.com",
+      "senha": "WnvFi1iht38ZWe7",
+      "id": "B8VkARWPBPQ"
+    },
+    {
+      "nome": "Sara Silva",
+      "email": "sara.silva@email.com",
+      "senha": "7xcNICctSnn30MO",
+      "id": "sfCfe851X8M"
+    },
+    {
+      "nome": "Sra. Gustavo Oliveira",
+      "email": "Antnio68@yahoo.com",
+      "senha": "NZoc9W7XMg6s4To",
+      "id": "BRC2XhXmWxA"
+    },
+    {
+      "nome": "Manuela Oliveira Neto",
+      "email": "Bernardo.Saraiva@yahoo.com",
+      "senha": "ct34FwI_Ztqgssq",
+      "id": "gdE2GeYjNJ4"
+    },
+    {
+      "nome": "Ana Laura Carvalho",
+      "email": "Pietro.Franco57@gmail.com",
+      "senha": "bRVnQNMt_EPM7aE",
+      "id": "J3G2QL5PQXU"
+    },
+    {
+      "nome": "Natália Souza",
+      "email": "Flix6@live.com",
+      "senha": "2e8lyC757RQYNrl",
+      "id": "dNvY_5g7TDw"
+    },
+    {
+      "nome": "Maria Santos",
+      "email": "Norberto_Silva1@hotmail.com",
+      "senha": "4fMN75ZztozEBUc",
+      "id": "71jZjQyeZeo"
+    },
+    {
+      "nome": "Vitória Xavier Jr.",
+      "email": "Daniel.Franco@hotmail.com",
+      "senha": "6KSWhowtHxF5eiN",
+      "id": "SwNeZHP0sDI"
+    },
+    {
+      "nome": "Elísio Carvalho",
+      "email": "Elo_Albuquerque71@hotmail.com",
+      "senha": "EGM_4pJ1S1NmXX7",
+      "id": "8be5b555-5a8a-4028-a19e-9bb350505c99"
+    },
+    {
+      "nome": "Fabiano Silva",
+      "email": "Guilherme65@gmail.com",
+      "senha": "0GsvKRDYmr3PCvE",
+      "id": "9cb0f748-6c26-481d-b2b7-5d6f1e175e93"
+    },
+    {
+      "nome": "Isabela Moraes",
+      "email": "",
+      "senha": "sdTmBHMzlpOENSd",
+      "id": "4bd50bd2-01ed-4d87-bfd2-a7108f19eee3"
+    },
+    {
+      "nome": "Marli Silva",
+      "email": "",
+      "senha": "vCopvBwZQE65sYz",
+      "id": "90d9774e-94a1-4c3b-9fa8-d916dbfcf0e1"
+    },
+    {
+      "nome": "Lorraine Melo",
+      "email": "",
+      "senha": "8NMll9GV27D1Jg5",
+      "id": "9072e5d7-f989-4a24-8f43-e477fcc21059"
+    },
+    {
+      "nome": "Leonardo Silva",
+      "email": "",
+      "senha": "WQkc6Ec91LODqP1",
+      "id": "wvhjdtNiSqA"
+    },
+    {
+      "nome": "Rebeca Albuquerque",
+      "email": "",
+      "senha": "M4cqarGe1p_rSo3",
+      "id": "ade0109a-4462-49c5-9a23-65036a165135"
+    },
+    {
+      "nome": "Silas Santos",
+      "email": "",
+      "senha": "7SbC9YCSIshBnYi",
+      "id": "0743e057-be2a-41ee-8673-f977e1ec2709"
+    },
+    {
+      "nome": "Srta. Felipe Saraiva",
+      "email": "",
+      "senha": "RJKvdvnvc6P3gbF",
+      "id": "70997803-d386-4974-87c3-a7269be73a47"
+    },
+    {
+      "nome": "Murilo Albuquerque",
+      "email": "Yago3@hotmail.com",
+      "senha": "bucMvt4SEp8XIZO",
+      "id": "bf13a70b-8d54-4ab8-93d9-dbc1613ccea8"
+    },
+    {
+      "nome": "Clara Melo",
+      "email": "Davi.Xavier14@bol.com.br",
+      "senha": "6HdgSXkS4r63oPN",
+      "id": "3dc0df52-bad5-4ab4-9cbc-75151a078866"
+    },
+    {
+      "nome": "Warley Saraiva",
+      "email": "Fabrcio_Franco75@gmail.com",
+      "senha": "ZsigfS3SuRvbw7c",
+      "id": "sp4ty116PP8"
+    },
+    {
+      "nome": "Sra. Yango Pereira",
+      "email": "Jlia.Martins27@hotmail.com",
+      "senha": "llkO3NnPyIGJpoV",
+      "id": "cee845d5-e67d-4bc2-92d4-18d6516a9335"
+    },
+    {
+      "nome": "Eduarda Pereira",
+      "email": "Noah_Braga2@live.com",
+      "senha": "DfCZ0hFaaU_ZAJN",
+      "id": "e5b3c332-6bd3-4796-9fe7-a5e62ab516e3"
+    },
+    {
+      "nome": "Sílvia Saraiva",
+      "email": "Bernardo_Pereira62@gmail.com",
+      "senha": "gJjO4EtHDArxM8x",
+      "id": "11938ede-cc37-463e-a9dc-2f0d7ff50d74"
+    },
+    {
+      "nome": "Sr. Enzo Gabriel Pereira",
+      "email": "Yasmin_Xavier@yahoo.com",
+      "senha": "KRd16RIFHoLIFXI",
+      "id": "4a328610-ada1-46ee-87be-3019f4aece7f"
+    },
+    {
+      "nome": "Sra. Sara Silva",
+      "email": "Alcia_Santos16@hotmail.com",
+      "senha": "S7EtgAZ24rjwrfJ",
+      "id": "1c533439-e373-4493-8646-276b312ba630"
+    },
+    {
+      "nome": "Mariana Franco",
+      "email": "Mrcia72@gmail.com",
+      "senha": "cNj24O7ZkIryXTI",
+      "id": "11b-9yQfoGg"
+    },
+    {
+      "nome": "Meire Carvalho",
+      "email": "Lucas81@yahoo.com",
+      "senha": "0f5Htp6_nv7ityW",
+      "id": "xkVhBGNxEXU"
+    },
+    {
+      "nome": "Samuel Oliveira",
+      "email": "Eduarda64@live.com",
+      "senha": "Wi1e2DclDJOJX0X",
+      "id": "-T6jeKmIz2w"
+    },
+    {
+      "nome": "Márcia Macedo",
+      "email": "Elisa_Souza@gmail.com",
+      "senha": "MQ8UbCJ5iBQWxMt",
+      "id": "zGpdVRfrFAI"
+    },
+    {
+      "nome": "Yasmin Martins",
+      "email": "Aline63@bol.com.br",
+      "senha": "Yv1GnR_pgs_9rZW",
+      "id": "-cRIVwUIOdo"
+    },
+    {
+      "nome": "Davi Lucca Albuquerque",
+      "email": "Joaquim.Macedo81@gmail.com",
+      "senha": "fGVhHV0IcqZk2lk",
+      "id": "myYMeh8k7s8"
+    },
+    {
+      "nome": "Gui Lima",
+      "email": "gui@email.com",
+      "senha": "456789",
+      "id": "CMkm8a2QgXg"
+    },
+    {
+      "nome": "Natália Melo",
+      "email": "Ladislau_Santos@yahoo.com",
+      "senha": "JxQlokxdkLc_K_h",
+      "id": "gB8iR499zbc"
+    },
+    {
+      "nome": "Pedro Xavier",
+      "email": "Jlia4@hotmail.com",
+      "senha": "KPWjoS2ZfIMC49M",
+      "id": "9-6nFwGAofk"
+    },
+    {
+      "nome": "Meire Santos",
+      "email": "Pietro_Santos@gmail.com",
+      "senha": "YO3IlIg8zAkayJR",
+      "id": "MUdyrWVHx2o"
+    },
+    {
+      "nome": "LUIZ CARLOS GIACHELLO DOS ANJOS",
+      "email": "luizanjos88@edu.mt.gov.br",
+      "senha": "123456",
+      "id": "oMPuPmNguWI"
+    },
+    {
+      "nome": "Lorena Costa",
+      "email": "Alexandre.Santos25@hotmail.com",
+      "senha": "tnXQvIW8Q3BsXbR",
+      "id": "ysQLdqmj2Qc"
+    },
+    {
+      "nome": "Nataniel Macedo",
+      "email": "Felipe64@bol.com.br",
+      "senha": "CyyvdBBXLgJaSfJ",
+      "id": "_S8L-xlZA7I"
+    }
+  ],
+  "transacoes": [
+    {
+      "transacao": "Depósito",
+      "valor": "150",
+      "data": "18/11/2022",
+      "mes": "Novembro",
+      "id": "1"
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100",
+      "data": "21/11/2022",
+      "mes": "Novembro",
+      "id": "2"
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "102",
+      "data": "22/11/2022",
+      "mes": "Novembro",
+      "id": "3"
+    }
+  ],
+  "saldo": {
+    "valor": 2000
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}
